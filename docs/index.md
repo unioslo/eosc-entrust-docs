@@ -1,7 +1,7 @@
 <section class="tre-hero">
 	<div class="tre-hero-main">
 		<p class="tre-eyebrow">EOSC-ENTRUST Technical Resources</p>
-		<h1>The landing page of technical resources</h1>
+		<h1>Technical Resources & Documentation</h1>
 		<p class="tre-lead">
 			A single, curated home for everything a Trusted Research Environment (TRE) needs to plan, build and
 			operate &mdash; governance guidance, technical architecture, security &amp; compliance references,
