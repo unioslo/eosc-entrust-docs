@@ -1,0 +1,13 @@
+site_name: EOSC-ENTRUST Technical Resources
+site_description: This is a landing page of technical resources for the EOSC-ENTRUST Blueprint
+site_author: EOSC-ENTRUST Team
+repo_url: https://github.com/unioslo/eosc-entrust-docs
+use_directory_urls: true
+theme:
+  name: readthedocs
+
+extra_css:
+  - stylesheets/home.css
+
+nav:
+  - Home: index.md
