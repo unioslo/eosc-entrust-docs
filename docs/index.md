@@ -38,7 +38,7 @@
 
 <div class="tre-link-group">
 
-### <i class="fa-solid fa-landmark tre-icon-heading"></i> Governance & Policy
+<i class="fa-solid fa-landmark tre-icon-heading"></i> Governance & Policy
 
 <div class="tre-link-list">
 <div class="tre-link-row tre-link-row-soon">
@@ -57,7 +57,7 @@
 
 <div class="tre-link-group">
 
-### <i class="fa-solid fa-diagram-project tre-icon-heading"></i> Technical Architecture
+<i class="fa-solid fa-diagram-project tre-icon-heading"></i> Technical Architecture
 
 <div class="tre-link-list">
 <div class="tre-link-row tre-link-row-soon">
@@ -76,7 +76,7 @@
 
 <div class="tre-link-group">
 
-### <i class="fa-solid fa-shield-halved tre-icon-heading"></i> Security & Compliance
+<i class="fa-solid fa-shield-halved tre-icon-heading"></i> Security & Compliance
 
 <div class="tre-link-list">
 <div class="tre-link-row tre-link-row-soon">
@@ -95,7 +95,7 @@
 
 <div class="tre-link-group">
 
-### <i class="fa-solid fa-database tre-icon-heading"></i> Data Management
+<i class="fa-solid fa-database tre-icon-heading"></i> Data Management
 
 <div class="tre-link-list">
 <div class="tre-link-row tre-link-row-soon">
@@ -114,7 +114,7 @@
 
 <div class="tre-link-group">
 
-### <i class="fa-solid fa-file-lines tre-icon-heading"></i> Templates & Toolkit
+<i class="fa-solid fa-file-lines tre-icon-heading"></i> Templates & Toolkit
 
 <div class="tre-link-list">
 <div class="tre-link-row tre-link-row-soon">
@@ -133,7 +133,7 @@
 
 <div class="tre-link-group">
 
-### <i class="fa-solid fa-people-group tre-icon-heading"></i> Community & Support
+<i class="fa-solid fa-people-group tre-icon-heading"></i> Community & Support
 
 <div class="tre-link-list">
 <a class="tre-link-row" href="https://github.com/unioslo/eosc-entrust-docs" target="_blank" rel="noopener">
@@ -152,7 +152,7 @@
 
 <div class="tre-link-group">
 
-### <i class="fa-solid fa-box-archive tre-icon-heading"></i> Publications & Outputs
+<i class="fa-solid fa-box-archive tre-icon-heading"></i> Publications & Outputs
 
 <div class="tre-link-list">
 <a class="tre-link-row" href="https://zenodo.org/communities/eosc-entrust-project/records" target="_blank" rel="noopener">
