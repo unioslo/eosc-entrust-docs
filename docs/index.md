@@ -3,9 +3,7 @@
 		<p class="tre-eyebrow">EOSC-ENTRUST Technical Resources</p>
 		<h1>Technical Resources & Documentation</h1>
 		<p class="tre-lead">
-			A single, curated home for everything a Trusted Research Environment (TRE) needs to plan, build and
-			operate &mdash; governance guidance, technical architecture, security &amp; compliance references,
-			templates and community support.
+			A curated collection of resources to help you plan, build, and operate a Trusted Research Environment (TRE).
 		</p>
 		<div class="tre-hero-actions">
 			<a class="tre-hero-link" href="https://eosc-entrust.eu/" target="_blank" rel="noopener">
