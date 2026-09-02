@@ -1,54 +1,28 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css");
-@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;700&family=Roboto:wght@300;400;500;700&display=swap");
 
-/* EOSC Corporate Design Manual v.1 / 2022-09: Lively Green, Mild Pink, Warm Black, Light Grey */
 :root {
-  --tre-ink: #040204;
-  --tre-soft-ink: #646363;
-  --tre-paper: #ffffff;
-  --tre-surface: #f2f2f1;
-  --tre-line: #e4e4e3;
-  --tre-line-strong: #c9c9c8;
-  --tre-primary: #008691;
-  --tre-primary-strong: #00636b;
-  --tre-accent: #ff5b7f;
-  --tre-nav-base: #040204;
-  --tre-nav-border: #2b2b2c;
-  --tre-nav-text: #cfcfcf;
-  --tre-nav-text-strong: #ffffff;
-  --tre-nav-text-hover: #5fd0da;
-  --tre-nav-hover: #171718;
-  --tre-nav-current: #00636b;
-  --tre-nav-submenu: #121212;
-  --tre-nav-submenu-deep: #1c1c1d;
-  --tre-nav-sub-hover: #00747f;
-  --tre-nav-sub-hover-deep: #008691;
-  --tre-shadow: 0 8px 24px rgba(4, 2, 4, 0.08);
-  --tre-shadow-hover: 0 16px 30px rgba(4, 2, 4, 0.12);
-  --tre-font-headline: "Quicksand", sans-serif;
-  --tre-font-body: "Roboto", sans-serif;
-}
-
-body,
-.wy-nav-content,
-.wy-menu-vertical a,
-p,
-li {
-  font-family: var(--tre-font-body);
-}
-
-h1 {
-  font-family: var(--tre-font-headline);
-  font-weight: 300;
-}
-
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: var(--tre-font-body);
-  font-weight: 300;
+  --tre-ink: #0f172a;
+  --tre-soft-ink: #334155;
+  --tre-paper: #f6faff;
+  --tre-surface: #eaf2fb;
+  --tre-line: #cfdff2;
+  --tre-line-strong: #b8cfea;
+  --tre-rtd-blue: #133a5e;
+  --tre-primary: #00509e;
+  --tre-primary-strong: #0b3b75;
+  --tre-nav-base: #133a5e;
+  --tre-nav-border: #2f5f88;
+  --tre-nav-text: #d9e8f6;
+  --tre-nav-text-strong: #e6f1fb;
+  --tre-nav-text-hover: #9ec6ea;
+  --tre-nav-hover: #1a476f;
+  --tre-nav-current: #1d4f7c;
+  --tre-nav-submenu: #163f66;
+  --tre-nav-submenu-deep: #1a496f;
+  --tre-nav-sub-hover: #215887;
+  --tre-nav-sub-hover-deep: #286396;
+  --tre-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+  --tre-shadow-hover: 0 16px 30px rgba(15, 23, 42, 0.12);
 }
 
 .wy-nav-content {
@@ -58,7 +32,7 @@ h6 {
 }
 
 .wy-nav-content-wrap {
-  background: var(--tre-surface);
+  background: #e2ecf8;
 }
 
 .tre-hero {
@@ -179,7 +153,7 @@ h1 {
 }
 
 h2 {
-  border-bottom: 2px solid var(--tre-line);
+  border-bottom: 2px solid #d9e7ff;
   color: var(--tre-primary-strong);
   margin-top: 1.55rem;
   margin-bottom: 1rem;
@@ -192,7 +166,7 @@ h3 {
 
 img[alt="Getting Started Flowchart"] {
   background: var(--tre-paper);
-  border: 1px solid var(--tre-line);
+  border: 1px solid #dce8fb;
   border-radius: 12px;
   box-shadow: var(--tre-shadow);
   display: block;
@@ -298,9 +272,9 @@ a.tre-link-row:hover .tre-link-row-chevron {
 
 .tre-badge-soon {
   background: var(--tre-surface);
-  border: 1px solid var(--tre-accent);
+  border: 1px solid var(--tre-line-strong);
   border-radius: 999px;
-  color: var(--tre-accent);
+  color: var(--tre-soft-ink);
   flex: 0 0 auto;
   font-size: 0.72rem;
   font-weight: 600;
@@ -578,7 +552,7 @@ a.tre-link-row:hover .tre-link-row-chevron {
 }
 
 .rst-versions a:hover {
-  color: var(--tre-nav-text-hover);
+  color: #9ec6ea;
 }
 
 /* Global menu normalization: remove gray from all levels and states. */
