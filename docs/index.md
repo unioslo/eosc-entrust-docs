@@ -17,20 +17,9 @@
 			</a>
 		</div>
 	</div>
-	<div class="tre-hero-side">
-		<div class="tre-hero-panel">
-			<h2><i class="fa-solid fa-circle-info tre-icon-heading"></i> At a glance</h2>
-			<ul>
-				<li><i class="fa-solid fa-check tre-icon-list"></i> Blueprint for building Trusted Research Environments</li>
-				<li><i class="fa-solid fa-check tre-icon-list"></i> Practical guidance for governance, security and data access</li>
-				<li><i class="fa-solid fa-check tre-icon-list"></i> Open, reusable templates and reference architectures</li>
-				<li><i class="fa-solid fa-check tre-icon-list"></i> Maintained by the EOSC-ENTRUST community</li>
-			</ul>
-		</div>
-	</div>
 </section>
 
-## Explore resources {#resources}
+## Explore resources
 
 <div class="tre-link-groups">
 
