@@ -12,7 +12,7 @@
 			<a class="tre-hero-link tre-hero-link-secondary" href="https://github.com/unioslo/eosc-entrust-docs" target="_blank" rel="noopener">
 				<i class="fa-brands fa-github"></i> GitHub Repository
 			</a>
-			<a class="tre-hero-link tre-hero-link-secondary" href="#resources">
+			<a class="tre-hero-link tre-hero-link-secondary" href="#explore-resources">
 				<i class="fa-solid fa-book"></i> Browse Resources
 			</a>
 		</div>

@@ -59,7 +59,7 @@ h3 {
   box-shadow: var(--tre-shadow);
   display: grid;
   gap: 1.25rem;
-  grid-template-columns: minmax(0, 2.4fr) minmax(260px, 1fr);
+  grid-template-columns: minmax(0, 1fr);
   margin: 0.25rem 0 1.4rem;
   padding: 1.4rem;
 }
@@ -118,6 +118,109 @@ h3 {
 
 .tre-hero-link-secondary:hover {
   color: var(--tre-paper);
+}
+
+.tre-link-groups {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 0 0 1.5rem;
+}
+
+.tre-link-group {
+  background: var(--tre-paper);
+  border: 1px solid var(--tre-line);
+  border-top: 4px solid var(--tre-accent);
+  border-radius: 8px;
+  box-shadow: var(--tre-shadow);
+  color: var(--tre-primary-strong);
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  min-width: 0;
+  padding: 1rem;
+}
+
+.tre-link-group > .tre-icon-heading {
+  color: var(--tre-primary);
+  margin-right: 0.45rem;
+}
+
+.tre-link-list {
+  border-top: 2px solid var(--tre-line);
+  display: grid;
+  gap: 0.25rem;
+  margin-top: 0.7rem;
+  padding-top: 0.45rem;
+}
+
+.tre-link-row {
+  align-items: center;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  color: var(--tre-ink);
+  display: flex;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.94rem;
+  font-weight: 400;
+  gap: 0.7rem;
+  min-width: 0;
+  padding: 0.7rem;
+  text-decoration: none;
+  transition: background-color 160ms ease, border-color 160ms ease;
+}
+
+a.tre-link-row:hover {
+  background: var(--tre-surface);
+  border-color: var(--tre-line);
+  color: var(--tre-ink);
+}
+
+.tre-link-row-soon {
+  opacity: 0.72;
+}
+
+.tre-link-row-icon {
+  color: var(--tre-primary);
+  flex: 0 0 1.1rem;
+  text-align: center;
+}
+
+.tre-link-row-body {
+  display: grid;
+  flex: 1 1 auto;
+  gap: 0.14rem;
+  min-width: 0;
+}
+
+.tre-link-row-title {
+  color: var(--tre-ink);
+  font-weight: 700;
+}
+
+.tre-link-row-desc {
+  color: var(--tre-soft-ink);
+  font-size: 0.84rem;
+  line-height: 1.35;
+}
+
+.tre-link-row-chevron {
+  color: var(--tre-primary);
+  flex: 0 0 auto;
+  font-size: 0.75rem;
+  margin-left: auto;
+}
+
+.tre-badge-soon {
+  background: var(--tre-surface);
+  border-radius: 999px;
+  color: var(--tre-soft-ink);
+  flex: 0 0 auto;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0.2rem 0.45rem;
+  text-transform: uppercase;
 }
 
 .tre-hero-side {
@@ -338,11 +441,15 @@ li {
   }
 
   .tre-hero-actions {
-    flex-direction: row;
+    flex-direction: column;
   }
 
   .tre-hero-link {
     justify-content: center;
+  }
+
+  .tre-link-groups {
+    grid-template-columns: 1fr;
   }
 
   .tre-card-grid {
