@@ -25,12 +25,12 @@
 
 <div class="tre-link-group">
 
-<i class="fa-solid fa-landmark tre-icon-heading"></i> Governance & Policy
+<i class="fa-solid fa-landmark tre-icon-heading"></i> Governance
 
 <div class="tre-link-list">
 <div class="tre-link-row tre-link-row-soon">
 <i class="fa-solid fa-sitemap tre-link-row-icon"></i>
-<span class="tre-link-row-body"><span class="tre-link-row-title">Organisational models & roles</span><span class="tre-link-row-desc">Responsibilities and decision-making structures for a TRE</span></span>
+<span class="tre-link-row-body"><span class="tre-link-row-title">Organisational models and roles</span><span class="tre-link-row-desc">Responsibilities and decision-making structures for a TRE</span></span>
 <span class="tre-badge-soon">Coming soon</span>
 </div>
 <div class="tre-link-row tre-link-row-soon">
@@ -63,7 +63,7 @@
 
 <div class="tre-link-group">
 
-<i class="fa-solid fa-shield-halved tre-icon-heading"></i> Security & Compliance
+<i class="fa-solid fa-shield-halved tre-icon-heading"></i> Security and Compliance
 
 <div class="tre-link-list">
 <div class="tre-link-row tre-link-row-soon">
@@ -101,7 +101,7 @@
 
 <div class="tre-link-group">
 
-<i class="fa-solid fa-file-lines tre-icon-heading"></i> Templates & Toolkit
+<i class="fa-solid fa-file-lines tre-icon-heading"></i> Templates and Toolkit
 
 <div class="tre-link-list">
 <div class="tre-link-row tre-link-row-soon">
@@ -120,7 +120,7 @@
 
 <div class="tre-link-group">
 
-<i class="fa-solid fa-people-group tre-icon-heading"></i> Community & Support
+<i class="fa-solid fa-people-group tre-icon-heading"></i> Community and Support
 
 <div class="tre-link-list">
 <a class="tre-link-row" href="https://github.com/unioslo/eosc-entrust-docs" target="_blank" rel="noopener">
@@ -139,7 +139,7 @@
 
 <div class="tre-link-group">
 
-<i class="fa-solid fa-box-archive tre-icon-heading"></i> Publications & Outputs
+<i class="fa-solid fa-box-archive tre-icon-heading"></i> Publications
 
 <div class="tre-link-list">
 <a class="tre-link-row" href="https://zenodo.org/communities/eosc-entrust-project/records" target="_blank" rel="noopener">
